@@ -1,4 +1,4 @@
-Machine Learning is broadly categorized under the following headings −
+Machine Learning is broadly categorized under the following headings − We will use this to store important information and outline plan.
 
 Categories Machine Learning
 Machine learning evolved from left to right as shown in the above diagram.
